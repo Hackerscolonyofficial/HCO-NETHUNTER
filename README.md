@@ -19,8 +19,8 @@ Built with a stunning Rich UI by [HCO]
 ## 🚀 Installation
 
 Open **Termux** and run the following:
-``
-``sh
+
+```python
 apt update && apt upgrade -y
 pkg install git python proot-distro wget tar -y
 pip install pyfiglet rich requests 
@@ -28,6 +28,7 @@ git clone https://github.com/Hackerscolonyofficial/HCO-NETHUNTER.git
 cd HCO-NETHUNTER
 python3 HCO-NETHUNTER.py
 ```
+
 # Kali-menu error solution 
 ```
 mkdir -p /usr/share/kali-menu
