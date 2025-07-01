@@ -24,8 +24,8 @@ Open **Termux** and run the following:
 apt update && apt upgrade -y
 pkg install git python proot-distro wget tar -y
 pip install pyfiglet rich requests 
-git clone https://github.com/...
-cd ..
+git clone https://github.com/Hackerscolonyofficial/HCO-NETHUNTER.git
+cd HCO-NETHUNTER
 python3 HCO-NETHUNTER.py
 ```
 # Kali-menu error solution 
