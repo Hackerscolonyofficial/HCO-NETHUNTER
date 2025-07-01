@@ -19,8 +19,8 @@ Built with a stunning Rich UI by [HCO]
 ## 🚀 Installation
 
 Open **Termux** and run the following:
-
-```python
+``
+``sh
 apt update && apt upgrade -y
 pkg install git python proot-distro wget tar -y
 pip install pyfiglet rich requests 
